@@ -3,7 +3,7 @@ module.exports = {
     title: `Elisas ultimativer Blog`,
     author: {
       name: `Elisa`,
-      summary: `die vor Corona in Ungarn war.`
+      summary: `who lived in Hungary before Corona.`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
@@ -67,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`
+        icon: `content/assets/logo.png`
       }
     },
     `gatsby-plugin-react-helmet`,
