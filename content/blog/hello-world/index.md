@@ -9,4 +9,4 @@ An Ungarns wichtigstem Nationalfeiertag beobachteten wir ein wahnsinnig schönes
 
 Wie ihr seht, hatten wir uns einen Platz unterhalb der *Budaer Festung* ergattert und hatten einen tollen Blick auf die **Kettenbrücke** (die aber immer mehr in Rauch unterging).
 
-![Feuerwerk in Budapest](./../../assets/profile-pic.jpg)
+![Feuerwerk in Budapest](./feuerwerk.jpg)
